@@ -1,0 +1,6 @@
+@De_Joker.Demo.NET8.AuthIdentity.Web.Api_HostAddress = http://localhost:5277
+
+GET {{De_Joker.Demo.NET8.AuthIdentity.Web.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
